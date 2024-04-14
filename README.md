@@ -12,7 +12,7 @@ Anime.csv
 7). rating - average rating out of 10 for this anime.
 8). members - number of community members that are in this anime's "group
 
-Rating.csv
+# Rating.csv
 1). user_id - non identifiable randomly generated user id.
 2). anime_id - the anime that this user has rated.
 3). rating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).
